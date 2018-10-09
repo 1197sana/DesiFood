@@ -1,0 +1,58 @@
+body {
+
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div.a {
+    text-align: center;
+}
+div.b {
+	text-align: center;
+} 
+
+h1 {
+
+  font-family: 'Dancing Script', cursive;
+  color:Chocolate;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+h2 {
+	
+font-family: 'Dancing Script', cursive;
+  color:Chocolate;
+  font-size: 26px;
+  text-align: center;
+}
+
+h3 {
+	
+  color:Chocolate;
+}
+
+.aButton {
+	/*margin: 20px auto;*/
+	margin-left: 37%;
+	margin-right: auto;
+}
+#search{
+	margin-left: 5px;
+}
+
+#search2{
+margin-left: 5px;
+}
+
+
+.btn-6d {
+	border: 2px dashed #226fbe;
+}
+
+.btn-6d:hover {
+	background: transparent;
+	color: #226fbe;
+}
+
